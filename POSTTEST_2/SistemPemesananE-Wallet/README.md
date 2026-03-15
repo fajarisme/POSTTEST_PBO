@@ -132,5 +132,3 @@ Program ini menunjukkan penerapan konsep dasar **Pemrograman Berorientasi Objek 
 * Encapsulation
 * Getter dan Setter
 * Access Modifier
-
-Program ini dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti penyimpanan database, validasi input yang lebih kompleks, atau antarmuka grafis.
